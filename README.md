@@ -6,14 +6,14 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/Model-LightGBM-success)](https://lightgbm.readthedocs.io/)
-[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](YOUR_STREAMLIT_APP_URL)
+[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://capstone-and-industry-project-ds-01-xx9yckuyz4jbsfuhmbcxc8.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Poonam4385/Capstone-and-Industry-Project-DS-01)
 
 <br>
 
 ## 🚀 LIVE INTERACTIVE DASHBOARD
 
-### [▶️ OPEN CUSTOMER INTELLIGENCE DASHBOARD](YOUR_STREAMLIT_APP_URL)
+### [▶️ OPEN CUSTOMER INTELLIGENCE DASHBOARD](https://capstone-and-industry-project-ds-01-xx9yckuyz4jbsfuhmbcxc8.streamlit.app/)
 
 </div>
 
@@ -273,7 +273,7 @@ This demonstrates why targeting everyone is inefficient.
 
 # 💸 Interactive Retention ROI Simulator
 
-### 🚀 [OPEN ROI SIMULATOR](YOUR_STREAMLIT_APP_URL)
+### 🚀 [OPEN ROI SIMULATOR](https://capstone-and-industry-project-ds-01-xx9yckuyz4jbsfuhmbcxc8.streamlit.app/)
 
 The live dashboard lets business users change:
 
@@ -630,7 +630,7 @@ This system goes further:
 
 # Predict → Explain → Value → Target → Optimize → Act
 
-### 🚀 [Launch Interactive Dashboard](YOUR_STREAMLIT_APP_URL)
+### 🚀 [Launch Interactive Dashboard](https://capstone-and-industry-project-ds-01-xx9yckuyz4jbsfuhmbcxc8.streamlit.app/)
 
 <br>
 
