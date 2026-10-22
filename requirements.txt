@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+lightgbm
+shap
+lifelines
+optuna
+joblib
+matplotlib
+sqlalchemy
+psycopg2-binary
